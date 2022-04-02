@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "FabricaDeBolo/src",
-        "FabricaDeBoloFactoryMethod/src/fabricadebolo"
+        "FabricaDeBoloFactory/src/fabricadeboloFactory"
     ]
 }
