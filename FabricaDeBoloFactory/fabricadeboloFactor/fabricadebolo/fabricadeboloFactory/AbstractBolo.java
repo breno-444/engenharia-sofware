@@ -1,5 +1,5 @@
 
-package fabricadebolo;
+
 
 public abstract class AbstractBolo {
     private String nome;

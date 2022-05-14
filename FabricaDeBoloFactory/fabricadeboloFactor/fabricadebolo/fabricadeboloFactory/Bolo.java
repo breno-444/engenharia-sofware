@@ -1,4 +1,3 @@
-package fabricadeboloFactory;
 
 
     public abstract class Bolo {

@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "FabricaDeBoloFactory/src/fabricadeboloFactory"
+        "açai",
+        "FabricaDeBoloFactory/src/fabricadeboloFactory",
+        "FabricaDeBoloFactory/fabricadeboloFactory/fabricadebolo/fabricadeboloFactory"
     ]
 }

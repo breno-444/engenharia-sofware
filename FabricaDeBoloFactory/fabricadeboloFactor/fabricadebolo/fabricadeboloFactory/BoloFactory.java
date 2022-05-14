@@ -1,5 +1,3 @@
-package fabricadeboloFactory;
-
 public class  BoloFactory implements InterfaceBolo {
     public enum Bolos {
         ABACAXI, CHOCONINHO, FLORESTANEGRA, PRESTIGIO;

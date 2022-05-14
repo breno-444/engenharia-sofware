@@ -1,5 +1,5 @@
 
-package fabricadebolo;
+
 
 public class Prestigio extends AbstractBolo{
 

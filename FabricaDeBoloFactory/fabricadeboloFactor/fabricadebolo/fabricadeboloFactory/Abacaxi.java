@@ -1,5 +1,5 @@
 
-package fabricadebolo;
+
 
 public class Abacaxi extends AbstractBolo{      
     
